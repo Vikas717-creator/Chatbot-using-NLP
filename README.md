@@ -95,6 +95,10 @@ Edit
 
 ---
 
+## Screenshot:
+![image](https://github.com/user-attachments/assets/a08a5175-2f90-48b5-b416-bf69dd2c5f75)
+
+---
 ## 🔮 Future Enhancements
 
 - 🧠 Switch to fine-tuned BERT or LLM (e.g., DistilBERT, RoBERTa)  
