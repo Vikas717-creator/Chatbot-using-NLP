@@ -26,15 +26,6 @@ An interactive chatbot built using **Natural Language Processing (NLP)** techniq
 
 ---
 
-## 🗂️ Folder Structure
-
-chatbot-nlp/ ├── data/ │ └── intents.json ├── models/ │ ├── tfidf_vectorizer.pkl │ ├── sentence_transformer.pkl │ └── rf_model.pkl ├── chatbot_app.py ├── preprocessing.py ├── train_model.py ├── requirements.txt └── README.md
-
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Getting Started
 
