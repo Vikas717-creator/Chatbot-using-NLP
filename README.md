@@ -34,23 +34,14 @@ An interactive chatbot built using **Natural Language Processing (NLP)** techniq
 1. Clone the repository:
 git clone https://github.com/Vikas717-creator/chatbot-nlp.git cd chatbot-nlp
 
-markdown
-Copy
-Edit
 
 2. Install dependencies:
 pip install -r requirements.txt
 
-markdown
-Copy
-Edit
 
 3. Run the Streamlit app:
 streamlit run chatbot_app.py
 
-yaml
-Copy
-Edit
 
 4. Chat with the bot at `http://localhost:8501/`
 
